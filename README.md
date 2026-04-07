@@ -28,7 +28,7 @@
    ./main
    ```
     - Following assignment format, provide your input as src/io/example.in
-    - This will run the algorithm and create example.out, containing the desired output
+    - This will run the algorithm and create src/io/example.out, containing the desired output
 8. **Input Test and Analysis**  
    From the build directory:
    ```bash
